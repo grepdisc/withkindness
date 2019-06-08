@@ -14,6 +14,6 @@ tags:
 
 ### A Fool speaking truth at City Hall
 
-Sam Dennison, a Tenderloin resident and co-director of Faithful Fools, served as chairperson of San Francisco's Citizen's Advisory Committee that oversaw the Twitter Tax Break. Please start at the **2:40:10** mark to listen to Sam's testimony.
+Sam Dennison, a Tenderloin resident and co-director of [Faithful Fools](https://faithfulfools.org), served as chairperson of San Francisco's Citizen's Advisory Committee that oversaw the Twitter Tax Break. Please start at the **2:40:10** mark to listen to Sam's testimony.
 
 <embed width="640px" height="360px" frameborder="0" allowfullscreen="true" src="https://sanfrancisco.granicus.com/player/clip/33331?view_id=11&stoptime=12191&autostart=0&embed=1">
