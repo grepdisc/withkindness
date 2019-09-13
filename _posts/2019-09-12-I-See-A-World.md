@@ -4,6 +4,7 @@ excerpt: "living in a world we can share"
 
 header:
   teaser: /assets/images/starr.jpg
+  image: /assets/images/starr_header.jpg
 
 categories:
   - perspectives
