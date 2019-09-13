@@ -9,7 +9,7 @@ categories:
   - civic
 
 tags:
-  - Faithul Fools
+  - Faithful Fools
 ---
 
 ### A Fool speaking truth at City Hall
