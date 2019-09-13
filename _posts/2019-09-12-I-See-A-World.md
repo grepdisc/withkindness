@@ -12,7 +12,7 @@ tags:
   - Professional
 ---
 
-**What does it mean to paying attention and to see the world that is trying to be born?
+**What does it mean to paying attention and to see the world that is trying to be born?**
 
 It means ...
 
