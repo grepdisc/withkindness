@@ -12,7 +12,7 @@ tags:
   - Personal
 ---
 
-I spent my 20's following passions while trying to please others. I followed a proscribed path that kept my mind stimulated and my financial-future secure. 
+I spent my 20's following passions while trying to please others. I followed a prescribed path that kept my mind stimulated and my financial-future secure. 
 
 I spent my 30's bushwhacking in the wilderness of many paths. I found inside myself a new openness to listening and allowing my path to be revealed. 
 
