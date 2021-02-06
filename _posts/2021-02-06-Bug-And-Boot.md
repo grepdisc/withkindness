@@ -1,5 +1,5 @@
 ---
-title: "A Bug A Boot Too Baguba”
+title: "A Bug A Boot Too Baguba"
 excerpt: "My chitin is not thick enough to withstand the pressures of this world"
 
 header:
