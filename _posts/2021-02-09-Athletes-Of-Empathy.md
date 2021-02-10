@@ -11,7 +11,7 @@ categories:
 tags:
   - Professional
 ---
-We are the meek. The quiet. We are the ones who put our bodies and our spirits out there to meet with those persons whom others would choose to forget.
+We are the meek. The quiet. We are the ones who put our bodies and our spirits out there to meet with those persons whom others would choose to forget. We peer closely enough to see that we are they and they are we.
 
 We listen, our hearts weeping, to the tales of trauma: of children witnessing or experiencing things that words fail to communicate. Those children stand in front of us, sometimes in the form of elderly adults, and sometimes with new traumas that continue into the present.
 
