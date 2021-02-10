@@ -17,6 +17,6 @@ We listen, our hearts weeping, to the tales of trauma: of children witnessing or
 
 We use our most powerful tool daily: we are human and they are human. We open our soul to connect with part of their soul, and perhaps some strength can be shared through a bond of trust.
 
-We are the custodians of caring, the professional athletes of empathy, and in another's words, yes we are God's janitors! We roll up our sleeves, literally and metaphorically, and show up each day to do the work that needs to be done.
+We are the custodians of caring, the professional athletes of empathy, and in Parry's words, yes we are the janitors of God! We roll up our sleeves, literally and metaphorically, and show up each day to do the work that needs to be done.
 
 We wish each day, that this work would no longer need to be done. We ask not only, “What have you survived?” We ask, “Who do you want to be?” And, “As whom do you want to be seen?” We listen, and then integrate this into how we see and treat people, as we ask, “Who do you wish to become?”
