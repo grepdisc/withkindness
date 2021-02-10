@@ -1,5 +1,5 @@
 ---
-title: "Friendship is a sheltering tree"
+title: "Friendship Is A Sheltering Tree"
 excerpt: "gratitude for those who have left"
 
 header:
