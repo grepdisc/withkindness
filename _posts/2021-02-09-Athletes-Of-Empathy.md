@@ -1,5 +1,5 @@
 ---
-title: “professional athletes of empathy”
+title: Athletes of Empathy
 excerpt: “those children stand in front of us, sometimes in the form of elderly adults"
 
 header:
@@ -19,5 +19,4 @@ We use our most powerful tool daily: we are human and they are human. We open ou
 
 We are the custodians of caring, the professional athletes of empathy, and in another's words, yes we are god's janitors. We roll up our sleeves, literally and metaphorically, and show up each day to do the work that needs to be done.
 
-We wish each day, that this work would no longer need to be done. We ask
-not only, “what have you survived?” but “who do you want to be?” and “as whom do you want to be seen?” We listen, and then this is how we see and treat people, as we ask “Who do you wish to become?”
+We wish each day, that this work would no longer need to be done. We ask not only, “What have you survived?” We ask, “Who do you want to be?” And, “As whom do you want to be seen?” We listen, and then integrate this into how we see and treat people, as we ask, “Who do you wish to become?”
