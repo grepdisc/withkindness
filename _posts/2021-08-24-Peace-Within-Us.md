@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/sheltering_tree.jpg
 
 categories:
-  - persepctectives
+  - perspectives
 
 tags:
   - Contemplative
