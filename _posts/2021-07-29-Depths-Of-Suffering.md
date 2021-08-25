@@ -3,7 +3,7 @@ title: "Rising From The Depths Of Suffering"
 excerpt: "respond to your suffering as I do to my own"
 
 header:
-  teaser: /assets/images/presence.jpg
+  teaser: /assets/images/starr.jpg
 
 categories:
   - perspectives
