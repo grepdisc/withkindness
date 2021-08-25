@@ -1,6 +1,6 @@
 ---
 title: "Walk With Peace"
-excerpt: "Life does not need to be this hard"
+excerpt: "life does not need to be this hard"
 
 header:
   teaser: /assets/images/purple_feet.jpg
