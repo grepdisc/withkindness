@@ -38,6 +38,6 @@ We can ask, "what is mine to do in this moment?" We can show, "I trust you."
 I trust you to meet your needs and to do what is yours to do.
 We can love each other. We can love ourselves.
 We can lead with questions:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I help?
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How shall we do what is ours?
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *You are safe and okay, what do you need to be more than okay?*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I help?
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How shall we do what is ours?
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *You are safe and okay, what do you need to be more than okay?*
