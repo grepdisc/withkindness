@@ -15,7 +15,7 @@ tags:
 **What does it mean for most of us to feel overwhelmed much of the time?**
 
 We want to feel okay. *We feel not okay.* We want to feel safe and confident and relaxed.
-*We feel none of this.* We want to plan for the future.
+*We feel none of these.* We want to plan for the future.
 The present feels scary and many of our *possible futures feel unthinkable.*
 
 There are virtues and characteristics we wish to embody: presence, discerning,
@@ -28,8 +28,8 @@ a community, we can bind ourselves to each other to be strong.
 
 We can survive as a hierarchy, only when we think of each other.
 Specifically, a leader's strength can be no more than their empathy with those they lead.
-*Being led by one without active empathy for you, is like riding a mechanical bull.*
-Leading others while riding a bull is absolutely subjecting them to chaos.
+*Being led by one without active empathy for you, feels like riding a mechanical bull.*
+Leading others while riding a bull oneself is absolutely subjecting them to chaos.
 You can do it, but people are getting hurt.
 
 **What can we do?**
