@@ -28,7 +28,7 @@ The river flows
 
 The river offers us a flow.<br>
 We can dip into it to be present,<br>
-to have a quiet mind, to feel in the flow.
+To have a quiet mind, to feel in the flow.
 
 Like a swift current passing over rocks<br>
 To form eddies and rapids,<br>
@@ -37,20 +37,20 @@ Thoughts going everywhere,<br>
 Or exploring all aspects of a single focus.
 
 Our minds may get stuck,<br>
-feeling down and self critical,<br>
-or filled with grief,<br>
-like debris that clogs the river<br>
-and stifles its flow.
+Feeling down and self critical,<br>
+Or filled with grief,<br>
+Like debris that clogs the river<br>
+And stifles its flow.
 
 *Sitting on the edge of the river,<br>
-basking in the sun and feeling a gentle breeze,*<br>
-we can see that all is as it is<br>
-or at least as it seems to be.
+Basking in the sun and feeling a gentle breeze,*<br>
+We can see that all is as it is<br>
+Or at least as it seems to be.
 
 The river is there to dip or wade into.<br>
 It is there to carry us along effortlessly.<br>
 We can see it moving softly or rushing past,<br>
-or seeping through branches and dams.
+Or seeping through branches and dams.
 
 We can see it changes over time.<br>
 We can see that it is ever beautiful.<br>
