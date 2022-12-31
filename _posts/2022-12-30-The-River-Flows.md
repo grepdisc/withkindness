@@ -31,14 +31,14 @@ We can dip into it to be present,<br>
 To have a quiet mind, to feel in the flow.
 
 Like a swift current passing over rocks<br>
-To form eddies and rapids,<br>
-Our minds may race, feeling high energy,<br>
-Thoughts going everywhere,<br>
-Or exploring all aspects of a single focus.
+To form eddies and rapids,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our minds may race, feeling high energy,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thoughts going everywhere,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or exploring all aspects of a single focus.
 
-Our minds may get stuck,<br>
-Feeling down and self critical,<br>
-Or filled with grief,<br>
+Our minds may get stuck,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feeling down and self critical,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or filled with grief,<br>
 Like debris that clogs the river<br>
 And stifles its flow.
 
@@ -49,8 +49,8 @@ Or at least as it seems to be.
 
 The river is there to dip or wade into.<br>
 It is there to carry us along effortlessly.<br>
-We can see it moving softly or rushing past,<br>
-Or seeping through branches and dams.
+We can see it moving softly or rushing past,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or seeping through branches and dams.
 
 We can see it changes over time.<br>
 We can see that it is ever beautiful.<br>
