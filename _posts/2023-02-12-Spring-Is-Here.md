@@ -34,7 +34,7 @@ Each experiencing their own joy,<br>
 Each grateful and happier for this community,<br>
 Each immersed in ecstatic energy.
 
-We infect each other.
+We infect each other.<br>
 We amplify, inspire and escalate the scene.<br>
 We each strive to feel, be and play more authentically.<br>
 It is not a competition.<br>
