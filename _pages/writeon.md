@@ -1,5 +1,4 @@
 ---
-layout: tags
 permalink: /writeon/
 title: "WRITE ON!"
 author_profile: true
