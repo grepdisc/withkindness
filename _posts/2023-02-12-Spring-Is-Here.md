@@ -12,7 +12,7 @@ tags:
   - Ecstatic
 ---
 
-I am grateful to the Buffalo Ecstatic Dance community, and to the dancers who inspired this reflection today, February 12, 2023.
+I am grateful to the Buffalo Ecstatic Dance community, and to the dancers who inspired this reflection today, February 12, 2023.<br>
 <br>
 <br>
 **The first day of spring.<br>**
