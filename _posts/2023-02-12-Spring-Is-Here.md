@@ -13,8 +13,8 @@ tags:
 ---
 
 I am grateful to the Buffalo Ecstatic Dance community, and to the dancers who inspired this reflection today, February 12, 2023.
-
-
+<br>
+<br>
 **The first day of spring.<br>**
 Dancing outside on this dry sunny day.<br>
 The trees display their winter barreness.<br>
