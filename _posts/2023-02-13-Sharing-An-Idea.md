@@ -1,9 +1,9 @@
 ---
 title: "Sharing an Idea"
-excerpt: "departing its fleshly home"
-
-header:
-  teaser: /assets/images/starr.jpg
+#excerpt: "departing its fleshly home"
+#
+#header:
+#  teaser: /assets/images/starr.jpg
 
 categories:
   - perspectives

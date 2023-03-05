@@ -1,9 +1,9 @@
 ---
 title: "The Tree Towers Above"
-excerpt: "never imagining she would become a forest unto herself"
-
-header:
-  teaser: /assets/images/sheltering_tree.jpg
+#excerpt: "never imagining she would become a forest unto herself"
+#
+#header:
+#  teaser: /assets/images/sheltering_tree.jpg
 
 categories:
   - perspectives

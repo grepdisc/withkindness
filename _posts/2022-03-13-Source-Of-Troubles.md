@@ -1,9 +1,9 @@
 ---
 title: "The Source Of Our Own Troubles"
-excerpt: "unable to consider others’ needs or perspectives"
-
-header:
-  teaser: /assets/images/perspectives.jpg
+#excerpt: "unable to consider others’ needs or perspectives"
+#
+#header:
+#  teaser: /assets/images/perspectives.jpg
 
 categories:
   - perspectives

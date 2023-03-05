@@ -1,9 +1,9 @@
 ---
 title: "Spring Is Here"
-excerpt: "amidst a sea of smiling peeps"
-
-header:
-  teaser: /assets/images/sheltering_tree.jpg
+#excerpt: "amidst a sea of smiling peeps"
+#
+#header:
+#  teaser: /assets/images/sheltering_tree.jpg
 
 categories:
   - observations

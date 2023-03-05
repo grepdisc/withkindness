@@ -1,9 +1,9 @@
 ---
 title: "I See A World"
-excerpt: "living in a world we can share"
-
-header:
-  teaser: /assets/images/starr.jpg
+#excerpt: "living in a world we can share"
+#
+#header:
+#  teaser: /assets/images/starr.jpg
 
 categories:
   - perspectives

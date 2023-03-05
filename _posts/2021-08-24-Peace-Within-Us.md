@@ -1,9 +1,9 @@
 ---
 title: "Peace Begins Within Us"
-excerpt: "we respond to surprises with grace"
-
-header:
-  teaser: /assets/images/sheltering_tree.jpg
+#excerpt: "we respond to surprises with grace"
+#
+#header:
+#  teaser: /assets/images/sheltering_tree.jpg
 
 categories:
   - perspectives

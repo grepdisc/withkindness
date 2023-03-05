@@ -1,9 +1,9 @@
 ---
 title: "Discovering the Enneagram"
-excerpt: "beginning a new way of understanding my journey"
-
-header:
-  teaser: /assets/images/200px-Enneagram.jpg
+#excerpt: "beginning a new way of understanding my journey"
+#
+#header:
+#  teaser: /assets/images/200px-Enneagram.jpg
 
 categories:
   - growth

@@ -1,9 +1,9 @@
 ---
 title: "Twitter Tax Break - Lessons Learned Hearing"
-excerpt: "a video of Sam Dennison at SF City Hall"
-
-header:
-  teaser: /assets/images/sam_at_hearing.jpg
+#excerpt: "a video of Sam Dennison at SF City Hall"
+#
+#header:
+#  teaser: /assets/images/sam_at_hearing.jpg
 
 categories:
   - civic

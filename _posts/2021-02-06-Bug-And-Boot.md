@@ -1,9 +1,9 @@
 ---
 title: "A Bug A Boot Too Baguba"
-excerpt: "my chitin is not thick enough to withstand the pressures of this world"
-
-header:
-  teaser: /assets/images/perspectives.jpg
+#excerpt: "my chitin is not thick enough to withstand the pressures of this world"
+#
+#header:
+#  teaser: /assets/images/perspectives.jpg
 
 categories:
   - perspectives

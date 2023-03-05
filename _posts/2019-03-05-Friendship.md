@@ -1,9 +1,9 @@
 ---
 title: "Friendship Is A Sheltering Tree"
-excerpt: "gratitude for those who have left"
-
-header:
-  teaser: /assets/images/sheltering_tree.jpg
+#excerpt: "gratitude for those who have left"
+#
+#header:
+#  teaser: /assets/images/sheltering_tree.jpg
 
 categories:
   - life

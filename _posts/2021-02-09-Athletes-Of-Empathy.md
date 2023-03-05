@@ -1,9 +1,9 @@
 ---
 title: Athletes of Empathy
-excerpt: those children stand in front of us, sometimes in the form of elderly adults
-
-header:
-  teaser: /assets/images/athletes.jpg
+#excerpt: those children stand in front of us, sometimes in the form of elderly adults
+#
+#header:
+#  teaser: /assets/images/athletes.jpg
 
 categories:
   - perspectives

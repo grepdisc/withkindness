@@ -1,9 +1,9 @@
 ---
 title: "The River Flows"
-excerpt: "basking in the sun and feeling a gentle breeze"
-
-header:
-  teaser: /assets/images/niagara.jpg
+#excerpt: "basking in the sun and feeling a gentle breeze"
+#
+#header:
+#  teaser: /assets/images/niagara.jpg
 
 categories:
   - observations

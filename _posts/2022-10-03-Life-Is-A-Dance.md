@@ -1,9 +1,9 @@
 ---
 title: "Life Is A Dance"
-excerpt: "whose moves will I dance forward?"
-
-header:
-  teaser: /assets/images/starr2.jpg
+#excerpt: "whose moves will I dance forward?"
+#
+#header:
+#  teaser: /assets/images/starr2.jpg
 
 categories:
   - life

@@ -1,9 +1,9 @@
 ---
 title: "Defenestrate the Sesquipedalians"
-excerpt: "can it not usually be expressed in short sentences using simple words"
-
-header:
-  teaser: /assets/images/starr2.jpg
+#excerpt: "can it not usually be expressed in short sentences using simple words"
+#
+#header:
+#  teaser: /assets/images/starr2.jpg
 
 categories:
   - perspectives

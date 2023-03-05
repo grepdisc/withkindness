@@ -1,9 +1,9 @@
 ---
 title: The Creative Spigot
-excerpt: enable the body to connect with truth and creativity
-
-header:
-  teaser: /assets/images/purple_feet.jpg
+#excerpt: enable the body to connect with truth and creativity
+#
+#header:
+#  teaser: /assets/images/purple_feet.jpg
 
 categories:
   - perspectives

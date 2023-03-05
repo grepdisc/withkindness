@@ -1,9 +1,9 @@
 ---
 title: Leadership
-excerpt: being led by one without active empathy for you feels like riding a mechanical bull
-
-header:
-  teaser: /assets/images/niagara.jpg
+#excerpt: being led by one without active empathy for you feels like riding a mechanical bull
+#
+#header:
+#  teaser: /assets/images/niagara.jpg
 
 categories:
   - perspectives

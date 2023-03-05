@@ -1,9 +1,9 @@
 ---
 title: Boundaries
-excerpt: boundaries are the walls of our cups
-
-header:
-  teaser: /assets/images/starr.jpg
+#excerpt: boundaries are the walls of our cups
+#
+#header:
+#  teaser: /assets/images/starr.jpg
 
 categories:
   - perspectives

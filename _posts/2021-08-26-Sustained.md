@@ -1,9 +1,9 @@
 ---
 title: "Sustained For Being Ourselves"
-excerpt: "an inspiration for those we encounter"
-
-header:
-  teaser: /assets/images/starr2.jpg
+#excerpt: "an inspiration for those we encounter"
+#
+#header:
+#  teaser: /assets/images/starr2.jpg
 
 categories:
   - life

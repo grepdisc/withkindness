@@ -1,9 +1,9 @@
 ---
 title: "Tales from the Utopia: Part One"
-excerpt: "the three men steadied themselves against each other and gave a firm but calm tug"
-
-header:
-  teaser: /assets/images/niagara.jpg
+#excerpt: "the three men steadied themselves against each other and gave a firm but calm tug"
+#
+#header:
+#  teaser: /assets/images/niagara.jpg
 
 categories:
   - utopia

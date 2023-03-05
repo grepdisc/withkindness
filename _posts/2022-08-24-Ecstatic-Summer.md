@@ -1,9 +1,9 @@
 ---
 title: "Ecstatic Summer"
-excerpt: "flicker and sway as they dance in play"
-
-header:
-  teaser: /assets/images/sheltering_tree.jpg
+#excerpt: "flicker and sway as they dance in play"
+#
+#header:
+#  teaser: /assets/images/sheltering_tree.jpg
 
 categories:
   - observations

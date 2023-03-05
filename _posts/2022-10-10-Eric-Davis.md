@@ -1,9 +1,9 @@
 ---
 title: "Mr. Eric Davis"
-excerpt: "healthy hives that pollinate countless fields"
-
-header:
-  teaser: /assets/images/sheltering_tree.jpg
+#excerpt: "healthy hives that pollinate countless fields"
+#
+#header:
+#  teaser: /assets/images/sheltering_tree.jpg
 
 categories:
   - life

@@ -1,9 +1,9 @@
 ---
 title: "A Love Letter To SF"
-excerpt: "paths are lined by the people I have loved"
-
-header:
-  teaser: /assets/images/starr2.jpg
+#excerpt: "paths are lined by the people I have loved"
+#
+#header:
+#  teaser: /assets/images/starr2.jpg
 
 categories:
   - perspectives

@@ -1,9 +1,9 @@
 ---
 title: "Big Big Table"
-excerpt: "it's messy but it's beautiful and it's so welcoming"
+#excerpt: "it's messy but it's beautiful and it's so welcoming"
 
 header:
-  teaser: /assets/images/BigBigTableLogoSmall.jpg
+#  teaser: /assets/images/BigBigTableLogoSmall.jpg
   image: /assets/images/BigBigTableLogo.png
 
 categories:

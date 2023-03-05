@@ -1,9 +1,9 @@
 ---
 title: "Walk With Peace"
-excerpt: "life does not need to be this hard"
-
-header:
-  teaser: /assets/images/purple_feet.jpg
+#excerpt: "life does not need to be this hard"
+#
+#header:
+#  teaser: /assets/images/purple_feet.jpg
 
 categories:
   - perspectives
