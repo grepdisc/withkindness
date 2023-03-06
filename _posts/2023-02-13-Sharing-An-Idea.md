@@ -25,5 +25,4 @@ as it begins to decay immediately<br>
 upon departing its fleshly home.
 <br><br><br>
 
-If you want to write with me, please join me for an upcoming Kind Fools' **[WRITE ON! workshop](https://withkindness.org/writeon/#)**<br>
-Currently in-person, likely adding virtual in the future.
+If you want to write with me, please join me for an upcoming Kind Fools' **[WRITE ON! workshop](https://kindfools.org/writeon/#)**<br>

@@ -54,5 +54,4 @@ rolling in the ocean surf,<br>
 knowing we will be okay wherever we go.*
 <br><br><br>
 
-Do you want to write with me? Please join me for an upcoming Kind Fools' **[WRITE ON! workshop](https://withkindness.org/writeon/#)**<br>
-Currently in-person, likely adding virtual in the future.
+Do you want to write with me? Please join me for an upcoming Kind Fools' **[WRITE ON! workshop](https://kindfools.org/writeon/#)**<br>

@@ -30,5 +30,4 @@ As fewer persons can fully understand one's meaning, one therefore manages to *s
 *When a truth is clear, can it not usually be expressed in short sentences using simple words?*
 <br><br><br>
 
-Do you want to write with me? Please join me for an upcoming Kind Fools' **[WRITE ON! workshop](https://withkindness.org/writeon/#)**<br>
-Currently in-person, likely adding virtual in the future.
+Do you want to write with me? Please join me for an upcoming Kind Fools' **[WRITE ON! workshop](https://kindfools.org/writeon/#)**<br>
