@@ -12,8 +12,6 @@ tags:
   - Ecstatic
 ---
 
-**The River Flows**
-
 The river flows
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether we notice or not.
 
