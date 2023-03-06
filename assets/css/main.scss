@@ -6,3 +6,16 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// override the hiding of excerpt on mobile
+.grid__item {
+  .archive__item-excerpt {
+    display: block;
+    font-size: $type-size-8;
+
+    @include breakpoint($medium) {
+      display: block;
+      font-size: $type-size-6;
+    }
+  }
+}
