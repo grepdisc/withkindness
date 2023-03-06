@@ -12,8 +12,6 @@ tags:
   - Professional
 ---
 
-**Sharing an Idea**
-
 An idea *encased in a body*<br>
 becomes accessible<br>
 as ink touches paper or as voice forms words.

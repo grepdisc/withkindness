@@ -12,8 +12,6 @@ tags:
   - Contemplative
 ---
 
-**Boundaries**
-
 Boundaries, they help us to color within the lines,
 to paint delicate visions that approach and even embrace each other,
 while maintaining distinct edges.

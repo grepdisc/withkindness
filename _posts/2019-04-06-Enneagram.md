@@ -12,8 +12,6 @@ tags:
   - Personal
 ---
 
-### Discovering the Enneagram
-
 Three years ago, a person with whom I connected poorly introduced me to the Enneagram. As our relationship warmed, the Enneagram became more interesting. Then when I felt betrayed and hurt, the relationship vanished along with my interest in the Enneagram. 
 
 Recently, my curiosity returned and this captures a moment-in-time of just the first few hours of my exploration.
