@@ -11,7 +11,7 @@
 .grid__item {
   .archive__item-excerpt {
     display: block;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
 
     @include breakpoint($medium) {
       display: block;
