@@ -28,14 +28,14 @@ Like a blizzard.
 Power with and power over<br>
 Is a distinction<br>
 That may have no impact on<br>
-the effect of power on the wielder.
+The effect of power on the wielder.
 
 Power is a powerful drug in moderation<br>
 And is fatal at high dose<br>
 To the consumer,<br>
-to their spirit,<br>
-to their awareness,<br>
-and to humanity.
+To their spirit,<br>
+To their awareness,<br>
+And to humanity.
 
 <br>
 
