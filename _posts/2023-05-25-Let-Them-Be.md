@@ -8,12 +8,13 @@ tags:
   - Ecstatic
 ---
 
-Let them be.<br>
+*Let them be.*
+
 The pile of bags is pressed to the wall.<br>
 There is a man in there.<br>
 His jacket is caked with weeks of dirt.<br>
 He may not want to talk or move.<br>
-Let him be. 
+*Let him be.*
 
 The woman walks on West Ferry,<br>
 Asking each driver for a dollar.<br>
@@ -21,7 +22,7 @@ She may want you to listen.<br>
 She may be ready to assist.<br>
 She clearly wants a dollar, or five or ten.<br>
 If you lack resources to meet her yen,<br>
-Let her be. 
+*Let her be.*
 
 The man's broad smile is boyish on an old face.<br>
 Doing what he needs to meet his needs,<br>
@@ -30,7 +31,7 @@ Standing on rotting legs,<br>
 His existence and sweetness of compliments are miracles.<br>
 Raised in Dover and served on submarines,<br>
 Look away if you must,<br>
-But always let him be. 
+But always *let him be.*
 
 The woman lost her child, a decade ago.<br>
 Her bags and things may be scattered.<br>
@@ -38,7 +39,7 @@ She seeks the elusive item,<br>
 Whose location she almost remembers.<br>
 She may cry or yell or be unaware of who is around.<br>
 Would you trade your shoes for her bare feet?<br>
-Let her be.
+*Let her be.*
 
 There go any of us,<br>
 but for grace, for luck,<br>
@@ -53,7 +54,7 @@ And, when a sincere request for support arrives,<br>
 Ours is to be ready to live into,<br>
 "Yes, you can count on me."
 
-Ours is to let them be.
+Ours is to *let them be.*
 
 
 <br>
