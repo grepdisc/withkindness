@@ -9,7 +9,6 @@ tags:
 ---
 
 *Let them be.*
-
 The pile of bags is pressed to the wall.<br>
 There is a man in there.<br>
 His jacket is caked with weeks of dirt.<br>
