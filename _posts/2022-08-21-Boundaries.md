@@ -20,7 +20,7 @@ We pour from our cups. **Boundaries are the walls of our cups.**
 Without boundaries, we are not pouring from an empty cup.
 No, *we are spilling from a plate or a coaster.* We cannot pour.
 
-Boundaries help us to assert ourselves, to express outselves.
+Boundaries help us to assert ourselves, to express ourselves.
 When we are in a relationship with another,
 it is their boundaries that express who they are.
 "I love you" can be reframed as, "I love your boundaries."
