@@ -1,5 +1,5 @@
 ---
-title: "Living Opportunity"
+title: "Look Away From The Abyss"
 
 categories:
   - perspectives
