@@ -13,7 +13,7 @@ I start to fall forward down.<br>
 Branches I hit, ledges too.<br>
 Obstacles race toward me<br>
 I throw my momentum left<br>
-I miss a ledge, that's a success.<br>
+I miss a ledge, that's success.<br>
 *Falling is so so scarring.*
 
 Like skiing down a steep slope<br>
