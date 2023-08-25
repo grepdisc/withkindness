@@ -11,15 +11,15 @@ tags:
 Find the scars<br>
 Agitate like Mars.<br>
 Little battles within me<br>
-Keep blowing towards harmony.<br>
+Keep flowing towards harmony.<br>
 Scarred tissue gets stuck<br>
 Losing mobility, yuck.<br>
 
 True too of emotional patterns,<br>
 Here again, around like a ring on Saturn.<br>
-How to get my ringing thoughts to spiral?<br>
+How then to get my ringing thoughts to spiral?<br>
 Looping up and out instead<br>
-Expansive to gain escape velocity from the dead.<br>
+Expanding to reach escape velocity from the dead.<br>
 
 My body, my emotions, my thoughts<br>
 I want them free to boldly go where I know not<br>
