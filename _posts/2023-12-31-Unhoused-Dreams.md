@@ -1,5 +1,5 @@
 ---
-title: "unhoused Dreams"
+title: "Unhoused Dreams"
 
 categories:
   - perspectives
@@ -13,22 +13,22 @@ towards and misunderstandings about homelessness in the United States.
 In this book, *[When We Walk By](https://www.whenwewalkby.com)*, by
 [Miracle Messages](https://www.miraclemessages.org) founder Kevin Adler
 and Don Burnes, there is a quote from Don Burnes's previous book,
-*[Journeys out of Homelessness](
+*[Journeys Out of Homelessness](
 https://www.rienner.com/title/Journeys_Out_of_Homelessness_The_Voices_of_Lived_Experience)*.
-The rhyme in that quote inspired the below poem, but first,
+The rhyme in this quote inspired the below poem, but first,
 here is the quote attributed to Barb, a person experiencing homelessness:
 
-"My deep, deep shame, and need for hiding ... came from the fact that
+> My deep, deep shame, and need for hiding ... came from the fact that
 I was unworthy. I was a 'nothing and a nobody' and didn't deserve to be cared for.
 I had to hide out so no one else would find that out. ... 
 Many of these societal trappings of acceptability —like having a job,
 or being able to pay your bills, or having a house, or having a spouse,
 or having kids, or having friends, or having whatever — are at the root
 of so much of our shame ... Yet they rob us of our dignity when they are
-missing, or we lose them.”
+missing, or we lose them.
 
 <br>
-Unhoused Dreams
+**Unhoused Dreams**
 
 All I wanted<br>
 Having a house<br>
