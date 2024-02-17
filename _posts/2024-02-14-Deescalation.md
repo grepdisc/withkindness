@@ -8,8 +8,6 @@ tags:
   - Kind Fools
 ---
 
-**De-escalation**
-
 Peace<br>
 Peace within me<br>
 Inspires peace within you.<br>
