@@ -25,22 +25,22 @@ Below is a poem inspired by my first day
 of Resetting The Table training in October 2023.
 
 
-We listen to your story,<br>
-Noticing where you pause,<br>
-Emphasize or leave something unsaid,<br>
-Where your body or voice raises, cracks or surprises.<br>
-These guides are your gifts,<br>
-Offering clues to simple questions,<br>
-Often repeating your words, <br>
-That may aid you in sharing your story more fully.
+*We listen to your story,*<br>
+*Noticing where you pause,*<br>
+*Emphasize or leave something unsaid,*<br>
+*Where your body or voice raises, cracks or surprises.*<br>
+*These guides are your gifts,*<br>
+*Offering clues to simple questions,*<br>
+*Often repeating your words,*<br>
+*That may aid you in sharing your story more fully.*
 
-After listening to all that you share,<br>
-We reflect back to you concisely.<br>
-Using your guides and our own words,<br>
-We acknowledge your meanings,<br>
-Spoken and unspoken,<br>
-As we endeavor to offer you an experience<br>
-Of being heard and understood perfectly.
+*After listening to all that you share,*<br>
+*We reflect back to you concisely.*<br>
+*Using your guides and our own words,*<br>
+*We acknowledge your meanings,*<br>
+*Spoken and unspoken,*<br>
+*As we endeavor to offer you an experience*<br>
+*Of being heard and understood perfectly.*
 
 
 <br>
