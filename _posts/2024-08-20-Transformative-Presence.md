@@ -1,5 +1,5 @@
 ---
-title: "Our Space"
+title: "Transformative Presence"
 
 categories:
   - videos
@@ -8,20 +8,20 @@ tags:
   - Sermon
 ---
 
-On August 20, 2024 I felt honored to be asked to lead a service and offer a sermon at the Unitarian Universalist Church of Buffalo.
+I felt honored to be asked to lead a service and offer a sermon at the Unitarian Universalist Church of Buffalo on August 18, 2024.
 
 For the call to worship, we used the poem [Our Space](/observations/Our-Space/) and the text of the sermon appears below the video.
 
 
 For the sermon, I spoke first about the Peace Circles that UUCB hosted in partnership with [VOICE Buffalo](https://www.voicebuffalo.org), then about learning/training with [Faithful Fools](https://www.faithfulfools.org) and finally about our work with [Community Canvases](https://communitycanvases.org/)' [Kind Fools](https://kindfools.org).
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-WTM0tn9_A_?start=1834" frameborder="0" allowfullscreen</iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-WTM0tn9_A_?start=1834" frameborder="0" allowfullscreen></iframe>
 
 ## Written Text of Sermon
 
 In December 2019, we gathered right here,  just upstairs in the Alliance Room for one of our Peace Hub Circles, a partnership between this church and VOICE Buffalo.
 
-We had a great team leading these restorative practice circles. Of course there was Sharon Walker, Steve Wixson, Ginny Wixson, and Liz Parke. There was also Pastor Scott Johnson, Pastor Dan Schifeling, and the incomparable Jimmy Darby. And also the team from VOICE-Buffalo, especially Whitney Walker and Rev. Denise Walden, now Walden-Glenn
+We had a great team leading these restorative practice circles. Of course there was Sharon Walker, Steve Wixson, Ginny Vaughan, and Liz Parke. There was also Pastor Scott Johnson, Pastor Dan Schifeling, and the incomparable Jimmy Darby. And also the team from VOICE-Buffalo, especially Whitney Walker and Rev. Denise Walden, now Walden-Glenn
 
 At this particular circle, Rev. Denise’s 18 year old son David, a graduate of the Buffalo Public Schools, was my partner in facilitating. There were about a dozen adults and six buffalo high school students in attendance.
 
@@ -75,7 +75,7 @@ We are creating a culture of transformative presence, and there is an abundance 
 
 There is something holy in the trusting space that we create together. It feels like deep witness. It feels like the circle we held with those Buffalo Public School students.
 
-About a week ago in the Parish shall, we facilitated a program called Kind Conversations, where we shared a specific training in deep listening and reflection created by a nonprofit named Resetting the Table. As we enter into an election season that is full of excitement, anger, fear and pain, I want to encourage you to listen. As we listen to people with whom we may think we disagree, and we reflect back to them in a way that demonstrates that we fully understand them, We can sometimes generate a small amount of receptivity that allows them an openness to additional perspectives. And isn’t this the type of transformation that we need?
+About a week ago in the Parish Hall, we facilitated a program called Kind Conversations, where we shared a specific training in deep listening and reflection created by a nonprofit named Resetting the Table. As we enter into an election season that is full of excitement, anger, fear and pain, I want to encourage you to listen. As we listen to people with whom we may think we disagree, and we reflect back to them in a way that demonstrates that we fully understand them, We can sometimes generate a small amount of receptivity that allows them an openness to additional perspectives. And isn’t this the type of transformation that we need?
 
 
 <br>
