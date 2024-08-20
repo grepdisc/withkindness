@@ -15,7 +15,7 @@ For the call to worship, we used the poem [Our Space](/observations/Our-Space/) 
 
 For the sermon, I spoke first about the Peace Circles that UUCB hosted in partnership with [VOICE Buffalo](https://www.voicebuffalo.org), then about learning/training with [Faithful Fools](https://www.faithfulfools.org) and finally about our work with [Community Canvases](https://communitycanvases.org/)' [Kind Fools](https://kindfools.org).
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-WTM0tn9_A_?start=1834" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/WTM0tn9_A_?start=2433" frameborder="0" allowfullscreen></iframe>
 
 ## Written Text of Sermon
 
