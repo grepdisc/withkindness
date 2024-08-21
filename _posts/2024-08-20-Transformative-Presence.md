@@ -10,15 +10,12 @@ tags:
 
 I felt honored to be asked to lead a service and offer a sermon at the Unitarian Universalist Church of Buffalo on August 18, 2024.
 
-For the call to worship, we used the poem [Our Space](/observations/Our-Space/) and the text of the sermon appears below the video.
+For the call to worship, we used the poem [Our Space](/observations/Our-Space/).
 
 
-For the sermon, I spoke first about the Peace Circles that UUCB hosted in partnership with [VOICE Buffalo](https://www.voicebuffalo.org), then about learning/training with [Faithful Fools](https://www.faithfulfools.org) and finally about our work with [Community Canvases](https://communitycanvases.org/)' [Kind Fools](https://kindfools.org).
--
+For the sermon, I spoke first about the Peace Circles that UUCB hosted in partnership with [VOICE Buffalo](https://www.voicebuffalo.org), then about learning/training with [Faithful Fools](https://www.faithfulfools.org) and finally about our work with [Community Canvases](https://communitycanvases.org/)' [Kind Fools](https://kindfools.org). The text of the sermon appears below the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WTM0tn9_A_s?si=lNh8PV8fqp-m-Nb-&t=2433" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/WTM0tn9_A_?start=2433" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WTM0tn9_A_s?si=lNh8PV8fqp-m-Nb-&amp;start=2433" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Written Text of Sermon
 
